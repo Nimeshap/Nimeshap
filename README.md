@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nimesha 👋</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Software+developer+💻+|+Passionate+about+coding+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Software+developer+💻" alt="Typing SVG" />
 </p>
 
 
